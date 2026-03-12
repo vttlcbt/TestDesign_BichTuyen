@@ -12,6 +12,8 @@ All wireframes, UI designs, and prototype interactions are available in the link
 [File](https://drive.google.com/drive/folders/1W-lmKUZxmtFdMBFsk63_o8aJZtz3Xgo8?usp=sharing)
 Thank you for reviewing my assignment. I look forward to any feedback you may have.
 
+Sample
+[Link 1](https://dribbble.com/shots/27064720-FinSight-SaaS-Landing-Page)
 
 #### Author
 **Bich Tuyen – UI/UX Designer**
