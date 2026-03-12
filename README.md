@@ -13,7 +13,8 @@ All wireframes, UI designs, and prototype interactions are available in the link
 Thank you for reviewing my assignment. I look forward to any feedback you may have.
 
 Sample
-[Link 1](https://dribbble.com/shots/27064720-FinSight-SaaS-Landing-Page)
+
+https://dribbble.com/shots/27064720-FinSight-SaaS-Landing-Page
 
 #### Author
 **Bich Tuyen – UI/UX Designer**
