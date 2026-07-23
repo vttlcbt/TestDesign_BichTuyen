@@ -18,5 +18,7 @@ https://dribbble.com/shots/27064720-FinSight-SaaS-Landing-Page
 
 https://drive.google.com/drive/folders/1lECyqEnKSLj-DRbSGZdbWD3l0cZ8GFyD?usp=sharing
 
+https://drive.google.com/drive/folders/1-L_LCsXxztyvPDdekkWfGhmX1_W-8sL8?usp=sharing
+
 #### Author
 **Bich Tuyen – UI/UX Designer**
